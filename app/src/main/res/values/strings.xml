@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BT Snooze</string>
+    <string name="tile_label">BT Snooze</string>
+    <string name="master_title">Blocking on</string>
+    <string name="master_hint">Checked devices won\'t auto-connect while this is on. They stay paired.</string>
+    <string name="devices_header">Paired devices</string>
+    <string name="no_devices">No paired devices found.</string>
+    <string name="need_permission">BT Snooze needs the Nearby devices permission to see and manage your Bluetooth devices.</string>
+    <string name="grant">Grant permission</string>
+    <string name="bt_settings">Open Bluetooth settings</string>
+</resources>
